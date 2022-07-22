@@ -4,6 +4,6 @@ Esse sistema de login foi desenvolvido para demostrar um sistema básico de logi
 
 ## Telas
 
-<img src="img/login.png">
-<img src="img/cadastro.png">
-<img src="img/home.png">
+<img src="img/Login.png">
+<img src="img/Cadastro.png">
+<img src="img/Home.png">
